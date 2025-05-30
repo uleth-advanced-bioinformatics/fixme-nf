@@ -5,12 +5,12 @@ A basic (broken) genomic pipeline edited from nextflow.io.
 [![nextflow](https://img.shields.io/badge/nextflow-%E2%89%A523.04.0-brightgreen.svg)](http://nextflow.io)
 
 
-# Requirments 
+# Requirements 
 
 * Unix-like operateing system (Linux, macOS, etc)
 * Java 11 
 
-## Quicksrtat 
+## Quickstart 
 
 1. If you don't have it allready install Docker in your computor. Read more [here](https://docs.docker.com/).
 
@@ -35,7 +35,7 @@ You can see an example report at the following [link](http://multiqc.info/exampl
 Note: the very first time you execute it, it will take a few minutes to download the pipeline 
 from this GitHub repository and the associated Docker images needed to execute the pipeline.  
 
-## Pipeline flowchart!!!!1!!!1!
+## Pipeline flowchart!!!!!!!!!!
 
 Here is a visual representation of the design of fixme-nf pipeline, generated using the [visualization functionality](https://www.nextflow.io/docs/latest/tracing.html#dag-visualisation) of Nextflow.
 
