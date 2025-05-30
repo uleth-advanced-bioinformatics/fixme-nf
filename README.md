@@ -35,7 +35,7 @@ You can see an example report at the following [link](http://multiqc.info/exampl
 Note: the very first time you execute it, it will take a few minutes to download the pipeline 
 from this GitHub repository and the associated Docker images needed to execute the pipeline.  
 
-## Pipeline flowchart!!!!1!!!1!
+## Pipeline flowchart
 
 Here is a visual representation of the design of fixme-nf pipeline, generated using the [visualization functionality](https://www.nextflow.io/docs/latest/tracing.html#dag-visualisation) of Nextflow.
 
